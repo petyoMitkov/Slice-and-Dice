@@ -1,5 +1,7 @@
 # Web front-end development
 
+https://www.youtube.com/playlist?list=PLF4lVL1sPDSlPNXyby7srCGtQtD_nd2x5
+
 Repository for the course [Web front-end development](http://telerikacademy.com/Courses/Courses/Details/414) at [Telerik Academy](https://telerikacademy.com)
 
 ## Course program
